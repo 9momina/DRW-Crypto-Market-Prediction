@@ -16,6 +16,3 @@ The task was to predict short-term cryptocurrency price movements using real tra
 - Scikit-learn
 - aiohttp, requests
 - Jupyter Notebook
-
-## 📂 Project Structure
-# DRW-Crypto-Market-Prediction
